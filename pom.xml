@@ -8,24 +8,6 @@
   <name>Apache Camel :: Simple2 language</name>
   <version>1.0</version>
   <packaging>jar</packaging>
-  
-         <repositories>
-                  <repository> 
-                  <id>aws.nexus</id>
-                  <url>http://176.32.95.144/nexus/content/groups/public</url>
-                  <releases><enabled>true</enabled></releases>
-                  <snapshots><enabled>true</enabled></snapshots>
-                  </repository>
-         </repositories>
-  
-         <pluginRepositories>
-             <pluginRepository>
-                 <id>aws.nexus</id>
-                 <url>http://176.32.95.144/nexus/content/groups/public</url>
-                 <releases><enabled>true</enabled></releases>
-                 <snapshots><enabled>true</enabled></snapshots>
-             </pluginRepository>
-         </pluginRepositories>
 
   <dependencies>
 
